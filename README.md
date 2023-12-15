@@ -1,3 +1,2 @@
 # cars-website
-
-[Netlify Adresi](https://relaxed-moonbeam-f25e82.netlify.app/)
+https://bilalatesli.github.io/cars-website/
